@@ -1,4 +1,4 @@
 # NucleoF446RE_tinyshell_nos
-A simple Shell application sing NucleoF446RE
+A simple Shell application using NucleoF446RE
 
 Description to be done
